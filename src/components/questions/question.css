@@ -1,0 +1,29 @@
+ 
+.question-box h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 1.245rem 0;
+}
+
+.question-box .question{
+    margin: 1rem 0;
+}
+
+.question-box .options{
+    margin: 1rem 0;
+    padding-left: 2.5rem;
+    /* display: flex;
+    flex-direction: column;
+    align-items: start;
+    row-gap: 0.2rem; */
+    
+}
+
+button{
+    padding: 1px 6px;
+    cursor: pointer;
+}
+
+.question-box .timer{
+    margin: 1rem 0;
+}

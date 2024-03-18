@@ -1,0 +1,22 @@
+.container{
+    height: 100vh;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container .heading{
+    margin: 1.34rem 0;
+}
+
+
+@media (max-width : 600px) {
+    .container{
+        width: 90%;
+        margin: 0 auto;
+    }
+}
